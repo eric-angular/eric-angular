@@ -14,7 +14,7 @@ Ce compte regroupe mes projets démonstratifs pour illustrer les **meilleures pr
 
 | Projet | Description | Démo |
 |--------|--------------|------|
-| [Angular Blog](https://github.com/eric-angular/) | angular-blog | CRUD complet + Auth + Signals + Material UI | [Voir la démo](https://eric-angular.github.io/angular-blog) |
+| [Angular Blog](https://github.com/eric-angular/angular-blog) | angular-blog | CRUD complet + Auth + Signals + Material UI | [Voir la démo](https://eric-angular.github.io/angular-blog) |
 | [Angular Todo](./angular-todo) | Gestion de tâches avec Signals Store | À venir |
 | [Angular Dashboard](./angular-dashboard) | Tableau de bord avec Material + Charts | À venir |
 | [Angular Auth Demo](./angular-auth-demo) | Authentification + Guards + Interceptors + Lazy Routing | À venir |
