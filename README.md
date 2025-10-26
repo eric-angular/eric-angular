@@ -67,7 +67,7 @@ avec un accent sur la clarté du code, l’architecture et l’expérience utili
 | Frameworks | Angular 20 · Vue 3 · React 18 |
 | UI | Angular Material · TailwindCSS |
 | Outils Dev | VS Code · Git · Vite · Node.js |
-| Hébergement | GitHub Pages · Netlify · Vercel |
+| Hébergement | GitHub Pages · Netlify |
 
 ---
 
