@@ -56,7 +56,7 @@ avec un accent sur la clarté du code, l’architecture et l’expérience utili
 [![GitHub](https://img.shields.io/badge/GitHub-@eric--angular-black?logo=github)](https://github.com/eric-angular)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Ouellette-blue?logo=linkedin)](https://linkedin.com/in/ericfrontdev)
 [![Courriel](https://img.shields.io/badge/Email-eric%40ericouellette.com-lightgrey?logo=minutemailer)](mailto:eric@ericouellette.com)
-[![Site web](https://img.shields.io/badge/Website-ericouellette.com-lightgrey?logo=webtrees)](https://eric.ericouellette.com)
+[![Site web](https://img.shields.io/badge/Website-ericouellette.com-lightgrey?logo=webtrees)](https://ericouellette.com)
 
 ---
 
