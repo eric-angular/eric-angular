@@ -1,4 +1,4 @@
-# 🅰️ Portfolio Angular 20 — Eric Ouellette
+# 🅰️ Eric Ouellette
 
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="90" alt="Angular Logo"/>
